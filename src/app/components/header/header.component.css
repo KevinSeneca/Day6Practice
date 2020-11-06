@@ -1,0 +1,14 @@
+ul.navbar{
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+ul.navbar li a {
+    padding: 8px 20px;
+    text-decoration: none;
+}
+
+ul.navbar li a:hover {
+    color: purple;
+}
